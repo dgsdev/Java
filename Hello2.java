@@ -1,4 +1,4 @@
-// Print e \n múltipla linha na mesma instrução
+// Print e \n múltipla linha na mesma instrução.
 
 public class Hello2 {
 
