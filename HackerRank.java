@@ -14,13 +14,12 @@ class Result {
      * Complete a seguinte função para que a mesma devolva todos os possíveis números
      * de 4 dígitos, onde cada um seja menor ou igual a <maxDigit>,
      * e a soma dos dígitos de cada número gerado seja 21
-     * Ejemplos con maxDigit=6: 3666, 4566
+     * Exemplos com maxDigit=6: 3666, 4566
      *
      * Caso nenhum número seja encontrado, retornar null.
      */
     public static List<Integer> calculation(int maxDigit) {
-        
-
+	    
     }
 
 }
